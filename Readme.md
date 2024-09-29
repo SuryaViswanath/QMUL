@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-![QMUL Logo](./images/qmul-logo.png) (Because logos make everything look official, right?)
+![QMUL Logo](/images/qmul-logo.png) (Because logos make everything look official, right?)
 
 Welcome to my humble GitHub abode! This repository is your one-stop-shop for all things QMUL AI (NLP & CV). Whether you're after lecture notes, lab material, or just feel like browsing through some thrilling academic content, you've come to the right place. 📚✨
 
